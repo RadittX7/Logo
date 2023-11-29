@@ -8,7 +8,7 @@
 <br>
 </p>
 <div>
-<img src="https://a.uguu.se/FSsrEvBw.jpg" align="right">
+<img src="https://github.com/RadittX7/Logo/raw/main/1687277568223.jpg" align="right">
 <div>
 </p>
 </p>
