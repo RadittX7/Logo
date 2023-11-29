@@ -1,14 +1,14 @@
 
   <body>
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<h1 align="center">🔥 𝐆𝐗 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 🔥</h1>
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg">
+<img src="htt://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg">
 </div>
 <br>
 </p>
 <div>
-<img src="https://github.com/RadittX7/Logo/raw/main/1687277568223.jpg" align="right">
+<img src="htt://github.com/RadittX7/Logo/raw/main/1687277568223.jpg" align="right">
 <div>
 </p>
 </p>
