@@ -12,8 +12,6 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>          
-</p>
 </p>
 <p align="center"> </p> <img stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HASOKI?color=%239999FF&style=for-the-badge"/> &nbsp;
