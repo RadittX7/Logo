@@ -1,6 +1,6 @@
 
   <body>
-<h1 align="center">🔥 𝐆𝐗 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 🔥</h1>
+<h1 align="center">🔥 DDoS 🔥</h1>
 <br>
 <div align="center">
 <img src="htt://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg">
