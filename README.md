@@ -12,10 +12,6 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/c/PakTzy"><font color="red">SUBSCRIBE</font>
-</h4>
-<h4><font size="2"><a href="https://instagram.com/raditya_yoga19?igshid=ZDdkNTZiNTM="><font color="red">FOLLOW INSTAGRAM</font>
-</h4>
 <h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>          
 </p>
 </p>
