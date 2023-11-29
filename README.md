@@ -1,6 +1,5 @@
 
   <body>
-<h1 align="center">🔥 DDoS 🔥</h1>
 <br>
 <div align="center">
 <img src="htt://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg">
